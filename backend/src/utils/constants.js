@@ -1,0 +1,1 @@
+exports.publishIdLength = 6;
